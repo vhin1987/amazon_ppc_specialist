@@ -3,6 +3,10 @@
 ##Problem Statement
 Developed an Amazon PPC Analyzer using Python, Pandas, and Tkinter that automates Search Term Report analysis. The tool calculates key advertising KPIs including ACoS, CTR, CPC, CVR, and ROAS, classifies keywords into Winner, Watch, and Waste categories based on performance thresholds, identifies negative keyword opportunities, and generates an interactive dashboard with Excel exports. This project demonstrates Amazon PPC optimization, data analysis, automation, and reporting skills.
 
+Amazon advertisers often spend hours manually analyzing Search Term Reports to identify profitable keywords, wasted ad spend, and optimization opportunities. Manual analysis is time-consuming, prone to errors, and can delay critical decisions that impact campaign performance and profitability.
+
+This project aims to automate Amazon PPC analysis by calculating key performance metrics, classifying keyword performance, identifying negative keyword opportunities, and generating actionable insights through an easy-to-use dashboard.
+
 
 ##Data
 ##Methodology
